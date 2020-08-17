@@ -1,8 +1,9 @@
 # ICE-GAN
 **\[our code will be coming soon]**
 
-[ICE-GAN](https://arxiv.org/pdf/2005.04370.pdf): Identity-aware andCapsule-Enhanced GAN for Micro-ExpressionRecognition and Synthesis.
-Jianhui Yu, Chaoyi Zhang, Yang Song, Weidong Cai
+ICE-GAN: Identity-aware and Capsule-Enhanced GAN for Micro-Expression Recognition and Synthesis. ([Arxiv version](https://arxiv.org/pdf/2005.04370.pdf))
+
+Author: Jianhui Yu, Chaoyi Zhang, Yang Song, Weidong Cai
 ## Model Architecture
 ![model architecture](/images/model.png)
 
