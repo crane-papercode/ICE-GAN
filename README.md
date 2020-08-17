@@ -15,5 +15,4 @@ python main.py
 ```
 # Performance
 ![Model performance](/images/performance.png)
-Format: ![Alt Text](url)
 # License
