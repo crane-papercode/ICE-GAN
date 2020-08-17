@@ -13,5 +13,7 @@ To train the model from scratch, use the following code:
 ```python
 python main.py
 ```
-
+# Performance
+![Model performance](/images/performance.png)
+Format: ![Alt Text](url)
 # License
