@@ -13,7 +13,7 @@ The code is tested with Python 3.6, CUDA 10.1, Pytorch 1.4 on Ubuntu 18.04.
 
 # Usage
 ## Dataset
-* Due to the license agreement, we cannot share the datasets used in our paper. The links are provided below:
+* The links for the data we use are provided below:
     1. [SMIC dataset](https://www.oulu.fi/cmvs/node/41319)
     2. [CASME II dataset](http://fu.psych.ac.cn/CASME/casme2-en.php)
     3. [SAMM dataset](http://www2.docm.mmu.ac.uk/STAFF/m.yap/dataset.php)
