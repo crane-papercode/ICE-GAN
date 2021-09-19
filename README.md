@@ -5,7 +5,7 @@ ICE-GAN: Identity-aware and Capsule-Enhanced GAN for Micro-Expression Recognitio
 
 Author: Jianhui Yu, Chaoyi Zhang, Yang Song, Weidong Cai
 ## Model Architecture
-![model architecture](/images/model.png)
+![model architecture](/images/model_overview.jpg)
 
 # Installation
 The code is tested with Python 3.6, CUDA 10.1, Pytorch 1.4 on Ubuntu 18.04.
