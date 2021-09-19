@@ -29,7 +29,19 @@ This repo contains Pytorch implementation of the following modules:
 ## Performance
 ![Model performance](/images/performance.jpg)
 
-## Acknowledgement
+## Citation
+
+If you find our data or project useful in your research, please cite:
+
+```
+@InProceedings{yu2020ice,
+    title     = {ICE-GAN: Identity-aware and Capsule-Enhanced GAN with Graph-based Reasoning for Micro-Expression Recognition and Synthesis},
+    author    = {Yu, Jianhui and Zhang, Chaoyi and Song, Yang and Cai, Weidong},
+    booktitle = {International Joint Conference on Neural Networks (IJCNN)},
+    year      = {2021}
+```
+
+### Acknowledgement
 Our code borrows a lot from:
 * [pix2pix](https://github.com/phillipi/pix2pix)
 * [Pytorch-CapsuleNet](https://github.com/jindongwang/Pytorch-CapsuleNet)
