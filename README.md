@@ -26,10 +26,10 @@ This repo contains Pytorch implementation of the following modules:
 - [x] model/generator.py: model architecture for Unet-based generator with graph reasoning module (GRM);
 - [ ] ...
 
-# Performance
+## Performance
 ![Model performance](/images/performance.jpg)
 
-#Acknowledgement
+## Acknowledgement
 Our code borrows a lot from:
 * [pix2pix](https://github.com/phillipi/pix2pix)
 * [Pytorch-CapsuleNet](https://github.com/jindongwang/Pytorch-CapsuleNet)
