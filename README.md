@@ -1,5 +1,5 @@
 # ICE-GAN
-**\[our code will be coming soon]**
+**\[our code for model design is released]**
 
 ICE-GAN: ICE-GAN: Identity-aware and Capsule-Enhanced GAN with Graph-based Reasoning for Micro-Expression Recognition and Synthesis. ([Arxiv version](https://arxiv.org/pdf/2005.04370.pdf))
 
