@@ -14,7 +14,7 @@ Author: Jianhui Yu, Chaoyi Zhang, Yang Song, Weidong Cai
 * Packages: tqdm, sklearn
 
 ## Dataset
-* The links for the data we use are provided below:
+* The links for the data we use are provided below (Please contact the corresponding authors to obtain the data):
     1. [SMIC dataset](https://www.oulu.fi/cmvs/node/41319)
     2. [CASME II dataset](http://fu.psych.ac.cn/CASME/casme2-en.php)
     3. [SAMM dataset](http://www2.docm.mmu.ac.uk/STAFF/m.yap/dataset.php)
